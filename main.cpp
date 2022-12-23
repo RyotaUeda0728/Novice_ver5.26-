@@ -1,5 +1,7 @@
 ﻿#include <Novice.h>
 
+//12/23
+
 const char kWindowTitle[] = "GC1A_04_ウエダリョウタ";
 
 // Windowsアプリでのエントリーポイント(main関数)
